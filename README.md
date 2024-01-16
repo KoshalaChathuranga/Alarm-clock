@@ -17,11 +17,11 @@ This repository contains a simple Alarm and Clock application implemented in Pyt
 ## How to Run
 1. Make sure you have Python installed on your machine.
 2. Install the required dependencies using the following command:
-   \`\`\`bash
+   \`\`\`
    pip install PyQt5
    \`\`\`
 3. Run the Alarm & Clock application by executing the following command in the terminal:
-   \`\`\`bash
+   \`\`\`
    python <main.py>
    \`\`\`
 
